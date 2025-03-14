@@ -11,3 +11,11 @@ Faça o clone do projeto:
 ```bash
 git clone https://github.com/massilva/G88419-sa-ms-02-docker.git
 ```
+
+
+## Costruindo a imagem 
+para construir a imagem use o comando
+
+```bash
+git clone https://github.com/massilva/G88419-sa-ms-02-docker.git
+```
