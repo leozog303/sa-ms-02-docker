@@ -1,3 +1,8 @@
+#Pré-instalação
+##Se não tiver o docker instalado, acesse o site do Labs Play Docker.
+
+
+
 # sa-ms-02-docker
 
 ## Baixando o repositório
