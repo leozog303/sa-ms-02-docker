@@ -19,3 +19,8 @@ para construir a imagem use o comando
 ```bash
 git clone https://github.com/massilva/G88419-sa-ms-02-docker.git
 ```
+
+## Subindo o conteiner  
+```bash
+$ docker run -d --name='web' -p 80:80 otrs:latest
+```
